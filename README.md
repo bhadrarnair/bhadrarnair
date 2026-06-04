@@ -83,13 +83,12 @@ fun_fact: I believe the best code is the one that ships 🚀
 
 </div>
 
----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="Stats"> GitHub Analytics
 
 <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhadrarnair&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhadrarnair&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhadrarnair&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=1800" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhadrarnair&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800" />
    <br/><br/>
    <img src="https://nirzak-streak-stats.vercel.app/?user=bhadrarnair&theme=github_dark&hide_border=true" />
 </div>
@@ -106,12 +105,6 @@ fun_fact: I believe the best code is the one that ships 🚀
 
    <br/>
 
-   <!-- Contribution Snake -->
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhadrarnair/bhadrarnair/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhadrarnair/bhadrarnair/output/github-contribution-grid-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/bhadrarnair/bhadrarnair/output/github-contribution-grid-snake.svg" />
-   </picture>
 
 </div>
 
@@ -122,11 +115,5 @@ fun_fact: I believe the best code is the one that ships 🚀
    <br/><br/>
    
    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2&section=footer" width="100%" />
-
-
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 </div>
-</div>
+
