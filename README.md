@@ -123,25 +123,7 @@ fun_fact: I believe the best code is the one that ships 🚀
    
    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2&section=footer" width="100%" />
 
-   # .github/workflows/snake.yml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: bhadrarnair
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
+
           target_branch: output
           build_dir: dist
         env:
