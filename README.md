@@ -83,16 +83,6 @@ fun_fact: I believe the best code is the one that ships 🚀
 
 </div>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="Stats"> GitHub Analytics
-
-<div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhadrarnair&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=1800" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhadrarnair&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800" />
-   <br/><br/>
-   <img src="https://nirzak-streak-stats.vercel.app/?user=bhadrarnair&theme=github_dark&hide_border=true" />
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" alt="Connect"> Let's Connect!
