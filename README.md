@@ -114,14 +114,34 @@ philosophy: "The best code is the one that ships" 🚀
 
 <div align="center">
 
-[![Container Damage Platform](https://github-readme-stats.vercel.app/api/pin?username=bhadrarnair&repo=container-damage-platform&theme=radical&bg_color=0d1117&title_color=00D4FF&icon_color=FF6B6B&text_color=c9d1d9&border_color=30363d)](https://github.com/bhadrarnair/container-damage-platform)
+<a href="https://github.com/bhadrarnair/container-damage-platform">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=bhadrarnair&repo=container-damage-platform&theme=radical&bg_color=0d1117&title_color=00D4FF&icon_color=FF6B6B&text_color=c9d1d9&border_color=30363d&show_owner=true" onerror="this.style.display='none'" />
+</a>
 
 <br/>
 
 **AI-Powered Container Damage Detection Platform**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6B35?style=flat-square&logo=opencv&logoColor=white)
+
+<br/>
+
 YOLOv8 + Gemma 4 Vision + PaddleOCR + FastAPI + React + Docker
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=bhadrarnair&repo=container-damage-platform&show_icons=true&theme=tokyonight)](https://github.com/bhadrarnair/container-damage-platform)
+<br/>
+
+[![Stars](https://img.shields.io/github/stars/bhadrarnair/container-damage-platform?style=flat-square&color=yellow)](https://github.com/bhadrarnair/container-damage-platform/stargazers)
+[![Forks](https://img.shields.io/github/forks/bhadrarnair/container-damage-platform?style=flat-square&color=blue)](https://github.com/bhadrarnair/container-damage-platform/network)
+[![Issues](https://img.shields.io/github/issues/bhadrarnair/container-damage-platform?style=flat-square&color=red)](https://github.com/bhadrarnair/container-damage-platform/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/bhadrarnair/container-damage-platform?style=flat-square&color=green)](https://github.com/bhadrarnair/container-damage-platform/pulls)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhadrarnair/container-damage-platform)
 
 </div>
 
