@@ -17,12 +17,8 @@
 
 <br/><br/>
 
-<!-- Visitor Counter with Animation -->
+<!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=bhadrarnair&label=Profile%20Views&style=flat-square&color=00D4FF&labelColor=0d1117" />
-
-<!-- GitHub Streak -->
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhadrarnair&background=0d1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="600" />
 
 </div>
 
@@ -114,19 +110,15 @@ philosophy: "The best code is the one that ships" 🚀
 
 <div align="center">
 
-<a href="https://github.com/bhadrarnair/container-damage-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin?username=bhadrarnair&repo=container-damage-platform&theme=radical&bg_color=0d1117&title_color=00D4FF&icon_color=FF6B6B&text_color=c9d1d9&border_color=30363d&show_owner=true" onerror="this.style.display='none'" />
-</a>
-
-<br/>
-
 **AI-Powered Container Damage Detection Platform**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6B35?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 <br/>
 
@@ -134,14 +126,7 @@ YOLOv8 + Gemma 4 Vision + PaddleOCR + FastAPI + React + Docker
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/bhadrarnair/container-damage-platform?style=flat-square&color=yellow)](https://github.com/bhadrarnair/container-damage-platform/stargazers)
-[![Forks](https://img.shields.io/github/forks/bhadrarnair/container-damage-platform?style=flat-square&color=blue)](https://github.com/bhadrarnair/container-damage-platform/network)
-[![Issues](https://img.shields.io/github/issues/bhadrarnair/container-damage-platform?style=flat-square&color=red)](https://github.com/bhadrarnair/container-damage-platform/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/bhadrarnair/container-damage-platform?style=flat-square&color=green)](https://github.com/bhadrarnair/container-damage-platform/pulls)
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhadrarnair/container-damage-platform)
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhadrarnair/container-damage-platform)
 
 </div>
 
