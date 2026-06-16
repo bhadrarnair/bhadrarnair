@@ -13,7 +13,7 @@
 <!-- Animated Social Links with Hover Effects -->
 <a href="mailto:nairbhadra.2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E74C3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E74C3C" /></a>
 <a href="https://github.com/bhadrarnair"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/bhadrarnair"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/bhadra-r-nair-b8a819370?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -140,7 +140,7 @@ I'm always open to collaborations, conversations, and coffee ☕
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nairbhadra.2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhadrarnair)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhadrarnair)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhadra-r-nair-b8a819370?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 <br/>
 
